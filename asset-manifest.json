@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-itvdn-routing-and-navigation/static/css/main.b869bcdb.css",
-    "main.js": "/react-itvdn-routing-and-navigation/static/js/main.b5326eb2.js",
+    "main.js": "/react-itvdn-routing-and-navigation/static/js/main.de36946c.js",
     "index.html": "/react-itvdn-routing-and-navigation/index.html",
     "main.b869bcdb.css.map": "/react-itvdn-routing-and-navigation/static/css/main.b869bcdb.css.map",
-    "main.b5326eb2.js.map": "/react-itvdn-routing-and-navigation/static/js/main.b5326eb2.js.map"
+    "main.de36946c.js.map": "/react-itvdn-routing-and-navigation/static/js/main.de36946c.js.map"
   },
   "entrypoints": [
     "static/css/main.b869bcdb.css",
-    "static/js/main.b5326eb2.js"
+    "static/js/main.de36946c.js"
   ]
 }
